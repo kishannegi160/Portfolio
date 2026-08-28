@@ -263,10 +263,14 @@ nav a{
 .card{
     padding: 20px;
 }
+.card a{
+    text-decoration: none;
+}
 .card h3{
     color: #e0e0e0;
     margin-bottom: 10px;
     transition: color 0.3 ease;
+    
 }
 .card h3:hover{
     color: #ffbf00;
